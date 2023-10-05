@@ -5,11 +5,8 @@ body{background-attachment:gray;
   .negrito{color:red;
 }
 
-body{
-  background-color: gray;
-  font-size: 20px
-text-align: center;}
-.negrito{color: red;
-}
-
+body{font-size: 20px;}
+.negrito {color: red;}
+.principal{text-align: center; background-color: gray;}
 .imagem{width: 100%;}
+.imagem_beneficio{width: 100%;}
