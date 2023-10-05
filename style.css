@@ -1,4 +1,16 @@
-.cabeçalho{background-color: khaki;}
-body{ font-size: 20px;
+body{background-attachment:gray;
+     font-size: 16px;
+  text-align: center;}
+
+  .negrito{color:red;
 }
-.titulo{align-items: center;}
+
+body{
+  background-color: gray;
+  font-size: 16px;
+text-align: center;}
+
+.negrito{color: red;
+}
+
+.imagem{width: 100%;}
