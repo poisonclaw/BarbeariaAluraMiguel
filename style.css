@@ -1,12 +1,17 @@
-body{background-attachment:gray;
-     font-size: 16px;
-  text-align: center;}
+body{font-size: 20px; }
 
-  .negrito{color:red;
-}
+.principal{text-align: center;
+background-color: gray;}
 
-body{font-size: 20px;}
-.negrito {color: red;}
-.principal{text-align: center; background-color: gray;}
+.alinhar{text-align: center;}
+
+.destaque{color: red;}
+
 .imagem{width: 100%;}
-.imagem_beneficio{width: 100%;}
+
+.lista{ display: inline-block;
+vertical-align: tops;}
+
+.imagem_beneficio{width: 50%;}
+
+.titulo-principal{padding-left: 20px;}
